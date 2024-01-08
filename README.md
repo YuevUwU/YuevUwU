@@ -29,7 +29,7 @@ print("I just want to do what I want to do...")
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-71%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
 
@@ -97,5 +97,5 @@ Windows                  5 hrs 34 mins       ██░░░░░░░░░�
 ```
 
 
- Last Updated on 07/01/2024 22:13:21 UTC
+ Last Updated on 08/01/2024 22:13:08 UTC
 <!--END_SECTION:waka-->
