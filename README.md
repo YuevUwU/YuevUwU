@@ -39,11 +39,11 @@ print("I just want to do what I want to do...")
 
 > 📦 422 Bytes Used in GitHub's Storage 
  > 
-> 🏆 4 Contributions in the Year 2024
+> 🏆 6 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 4 Public Repositories 
+> 📜 5 Public Repositories 
  > 
 > 🔑 8 Private Repositories 
  > 
@@ -74,25 +74,18 @@ Sunday                   38 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   6 hrs 19 mins       █████████████████████░░░░   84.70 % 
-Other                    1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-CSV                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-Canva Design             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 hrs 24 mins       █████████████████████░░░░   85.91 % 
-Chrome                   1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-UNO-OnLINE (Python/VSCode7 hrs 25 mins       █████████████████████████   99.42 % 
-UNO-OnLINE slides (Canva)2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-UNO-OnLINE materials (Can0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    7 hrs 28 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 19/01/2024 22:13:34 UTC
+ Last Updated on 20/01/2024 22:13:14 UTC
 <!--END_SECTION:waka-->
