@@ -18,3 +18,4 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_DAYS_OF_WEEK: "False"
           PROJECT_THRESHOLD_SEC: "60"
+          DEBUG_LOGGING: "True"
