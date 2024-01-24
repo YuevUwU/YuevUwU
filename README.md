@@ -29,33 +29,9 @@ print("I just want to do what I want to do...")
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.0%20thousand%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 424 Bytes Used in GitHub's Storage 
- > 
-> 🏆 7 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 6 Public Repositories 
- > 
-> 🔑 8 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-🌆 Daytime                36 commits          ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
-🌃 Evening                13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-🌙 Night                  83 commits          ██████████████░░░░░░░░░░░   56.46 % 
-```
-
 
 📊 **This Week I Spent My Time On** 
 
@@ -73,12 +49,12 @@ Text                     0 secs              ░░░░░░░░░░░�
 VS Code                  38 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-waka-readme-stats        38 mins             █████████████████████████   100.00 % 
+
 
 💻 Operating System: 
 Linux                    38 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/01/2024 19:32:47 UTC
+ Last Updated on 24/01/2024 20:34:50 UTC
 <!--END_SECTION:waka-->
