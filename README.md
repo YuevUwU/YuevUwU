@@ -29,7 +29,7 @@ print("I just want to do what I want to do...")
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -51,8 +51,7 @@ VS Code                  38 mins             ███████████�
 
 
 🐱‍💻 Projects: 
-
-_1 project(s) has been hidden due to threshold setting_
+1 project(s) has been hidden due to threshold setting
 
 💻 Operating System: 
 Linux                    38 mins             █████████████████████████   100.00 % 
@@ -60,5 +59,5 @@ Linux                    38 mins             ███████████�
 ```
 
 
- Last Updated on 24/01/2024 21:15:49 UTC
+ Last Updated on 24/01/2024 21:28:17 UTC
 <!--END_SECTION:waka-->
