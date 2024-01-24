@@ -51,7 +51,8 @@ VS Code                  38 mins             ███████████�
 
 
 🐱‍💻 Projects: 
-1 project(s) has been hidden due to threshold setting
+0 project(s) has been hidden due to threshold settingwaka-readme-stats        38 mins             █████████████████████████   100.00 % 
+
 
 💻 Operating System: 
 Linux                    38 mins             █████████████████████████   100.00 % 
@@ -59,5 +60,5 @@ Linux                    38 mins             ███████████�
 ```
 
 
- Last Updated on 24/01/2024 21:28:17 UTC
+ Last Updated on 24/01/2024 21:31:21 UTC
 <!--END_SECTION:waka-->
