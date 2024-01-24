@@ -1,10 +1,10 @@
 name: Waka Readme
 
-on: [push]
+on: [push, workflow_dispatch]
 
 jobs:
-  update-readme:
-    name: Update Readme with Metrics
+  update-readme-dev:
+    name: Update Readme with Metrics (Dev)
     runs-on: ubuntu-latest
     steps:
       - uses: YuevUwU/waka-readme-stats@dev
