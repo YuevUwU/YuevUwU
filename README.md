@@ -29,7 +29,7 @@ print("I just want to do what I want to do...")
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -39,7 +39,6 @@ print("I just want to do what I want to do...")
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-
 Python                   18 mins             ████████████░░░░░░░░░░░░░   47.93 % 
 Other                    16 mins             ██████████░░░░░░░░░░░░░░░   41.83 % 
 JSON                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
@@ -47,18 +46,15 @@ Docker                   0 secs              █░░░░░░░░░░�
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 
 🔥 Editors: 
-
 VS Code                  38 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-
 waka-readme-stats        38 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-
 Linux                    38 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/01/2024 21:38:13 UTC
+ Last Updated on 24/01/2024 21:46:57 UTC
 <!--END_SECTION:waka-->
