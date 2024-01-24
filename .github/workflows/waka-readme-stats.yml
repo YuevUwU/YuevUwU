@@ -17,4 +17,4 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_LOC_CHART: "False"
           SHOW_DAYS_OF_WEEK: "False"
-          PROJECT_THRESHOLD: "60"
+          PROJECT_THRESHOLD_SEC: "60"
