@@ -29,9 +29,9 @@ print("I just want to do what I want to do...")
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2045%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.0%20thousand%20lines%20of%20code-blue)
 
@@ -39,32 +39,21 @@ print("I just want to do what I want to do...")
 
 > 📦 424 Bytes Used in GitHub's Storage 
  > 
-> 🏆 6 Contributions in the Year 2024
+> 🏆 7 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 5 Public Repositories 
+> 📜 6 Public Repositories 
  > 
 > 🔑 8 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-🌆 Daytime                36 commits          ███████░░░░░░░░░░░░░░░░░░   26.28 % 
-🌃 Evening                13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-🌙 Night                  73 commits          █████████████░░░░░░░░░░░░   53.28 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-Tuesday                  10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-Wednesday                42 commits          ████████░░░░░░░░░░░░░░░░░   30.66 % 
-Thursday                 10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-Friday                   19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-Saturday                 14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-Sunday                   38 commits          ███████░░░░░░░░░░░░░░░░░░   27.74 % 
+🌞 Morning                15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+🌆 Daytime                36 commits          ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
+🌃 Evening                13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+🌙 Night                  82 commits          ██████████████░░░░░░░░░░░   56.16 % 
 ```
 
 
@@ -74,18 +63,22 @@ Sunday                   38 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   18 mins             ████████████░░░░░░░░░░░░░   47.93 % 
+Other                    16 mins             ██████████░░░░░░░░░░░░░░░   41.83 % 
+JSON                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+Docker                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  38 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+waka-readme-stats        38 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    38 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/01/2024 22:13:52 UTC
+ Last Updated on 24/01/2024 19:25:07 UTC
 <!--END_SECTION:waka-->
