@@ -9,12 +9,18 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: YuevUwU/waka-readme-stats@dev
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          DEBUG_LOGGING: "True"
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           LOCALE: "en"
-          SHOW_UPDATED_DATE: "True"
-          SHOW_LINES_OF_CODE: "True"
+          PROJECT_THRESHOLD_SEC: "60"
+          SHOW_COMMIT: "False"
+          SHOW_DAYS_OF_WEEK: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_LINES_OF_CODE: "True"
           SHOW_LOC_CHART: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_SHORT_INFO: "False"
+          SHOW_UPDATED_DATE: "True"
