@@ -29,7 +29,7 @@ print("I just want to do what I want to do...")
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -45,16 +45,20 @@ JSON                     2 mins              ██░░░░░░░░░�
 Docker                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 
+
 🔥 Editors: 
 VS Code                  38 mins             █████████████████████████   100.00 % 
 
+
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+
+_1 project(s) has been hidden due to threshold setting_
 
 💻 Operating System: 
 Linux                    38 mins             █████████████████████████   100.00 % 
+
 ```
 
 
- Last Updated on 24/01/2024 21:07:42 UTC
+ Last Updated on 24/01/2024 21:15:49 UTC
 <!--END_SECTION:waka-->
