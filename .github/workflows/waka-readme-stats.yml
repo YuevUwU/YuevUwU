@@ -1,6 +1,6 @@
 name: Waka Readme
 
-on: [push]
+on: [push, workflow_dispatch]
 
 jobs:
   update-readme:
