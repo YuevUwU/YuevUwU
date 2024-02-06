@@ -29,7 +29,7 @@ print("I just want to do what I want to do...")
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2057%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.0%20thousand%20lines%20of%20code-blue)
 
@@ -39,18 +39,20 @@ print("I just want to do what I want to do...")
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   48 mins             ███████████████████░░░░░░   75.35 % 
+Other                    15 mins             ██████░░░░░░░░░░░░░░░░░░░   24.47 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 4 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+UNO-Line                 1 hr 4 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 4 mins         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/02/2024 22:15:01 UTC
+ Last Updated on 06/02/2024 22:13:01 UTC
 <!--END_SECTION:waka-->
