@@ -1,7 +1,4 @@
-## :zzz:YuevUwU, a Newbie <sub><sup><sub>Programmer</sub></sup></sub>:zzz:
-```python3
-print("I just want to do what I want to do...")
-```
+## Programming for a more convenient life
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=YuevUwU&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=10&show=reviews"
@@ -59,3 +56,5 @@ Linux                    1 hr 7 mins         ███████████�
 
  Last Updated on 09/02/2024 22:14:54 UTC
 <!--END_SECTION:waka-->
+
+---
