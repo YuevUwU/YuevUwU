@@ -36,20 +36,20 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Fluent                   3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-phira (Translating/VSCode3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 13/02/2024 22:15:38 UTC
+ Last Updated on 14/02/2024 22:13:10 UTC
 <!--END_SECTION:waka-->
 
 ---
