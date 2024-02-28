@@ -36,21 +36,20 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   1 min               ███████████████████████░░   90.16 % 
-TOML                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-wisebot                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 27/02/2024 22:14:34 UTC
+ Last Updated on 28/02/2024 22:12:57 UTC
 <!--END_SECTION:waka-->
 
 ---
