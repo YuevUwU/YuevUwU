@@ -49,4 +49,4 @@ jobs:
           # Metrics have some calculation error if wakatime is enabled without graph (verify needed)
           # It will cause the footer to overflow outside the image (default: margin-top: 8px)
           # (default: 0, 8 + 11%)
-          config_padding: 0, 8 + 11% + 8
+          config_padding: 0, 16 + 11%
