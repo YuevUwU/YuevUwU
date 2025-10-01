@@ -46,3 +46,6 @@ jobs:
             svg {
               color: #eeeeee;
             }
+            .chart-bars .entry {
+              color: #eeeeee;
+            }
