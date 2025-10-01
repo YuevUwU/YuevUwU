@@ -22,3 +22,5 @@
   />
   <img src="https://github-readme-stats-eta-six-47.vercel.app/api/top-langs/?username=YuevUwU&layout=donut&theme=transparent&hide_border=true&border_radius=10&size_weight=1&count_weight=0&exclude_repo=Circuit-Miscellaneous-Fabric,DirtToolsMod-Fabric,EnchantedBookSplitter" />
 </picture>
+
+![metrics by lowlighter/metrics](assets/my-metrics.svg)
