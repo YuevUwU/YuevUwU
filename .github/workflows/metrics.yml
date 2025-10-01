@@ -46,6 +46,9 @@ jobs:
             svg {
               color: #eeeeee;
             }
+            h1, h2, h3 {
+              color: #9745f5;
+            }
           # Metrics have some calculation error if wakatime is enabled without graph (verify needed)
           # It will cause the footer to overflow outside the image (default: margin-top: 8px)
           # (default: 0, 8 + 11%)
