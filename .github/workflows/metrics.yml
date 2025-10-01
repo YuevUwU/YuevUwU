@@ -42,3 +42,7 @@ jobs:
           plugin_wakatime_user: YuevUwU
           repositories_forks: yes
           repositories_skipped: Circuit-Miscellaneous-Fabric,DirtToolsMod-Fabric,EnchantedBookSplitter,SCAICT/google-totp
+          extras_css: |
+            svg {
+              color: #eeeeee;
+            }
