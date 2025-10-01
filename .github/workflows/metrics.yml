@@ -46,8 +46,6 @@ jobs:
             svg {
               color: #eeeeee;
             }
-            /* Metrics have some calculation error if wakatime is enabled without graph (verify needed) */
-            /* It will cause the footer to overflow outside the image */
-            footer {
-              margin-top: 0;  // Original: 8px
-            }
+          # Metrics have some calculation error if wakatime is enabled without graph (verify needed) */
+          # It will cause the footer to overflow outside the image */
+          config_padding: 0, 8
